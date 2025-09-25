@@ -5,6 +5,8 @@ description: Spirochaeta americana, a bacterial microorganism that thrives in ha
 file: /courses/1-89-environmental-microbiology-fall-2004/66ffd5b5c6bc034953b4eb0d9c2a3272_chpmicroorganism.jpg
 file_size: 41884
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
